@@ -1,6 +1,6 @@
 using System;
 
-namespace IheritanceDemo2
+namespace InheritanceDemo2
 {
     class Program
     {
@@ -27,7 +27,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IheritanceDemo2
+namespace InheritanceDemo2
 {
     class Employee
     {
@@ -69,7 +69,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IheritanceDemo2
+namespace InheritanceDemo2
 {
     class Boss : Employee
     {
@@ -93,7 +93,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IheritanceDemo2
+namespace InheritanceDemo2
 {
     class Trainees : Employee
     {
